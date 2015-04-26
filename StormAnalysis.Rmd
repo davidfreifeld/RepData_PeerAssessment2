@@ -3,6 +3,8 @@ title: "Economic and Health Effects of Severe Weather in the US"
 output: html_document
 ---
 
+# Economic and Health Effects of Severe Weather in the US
+
 ## Synopsis
 
 In this study we aim to determine which categories of severe weather events caused the most damage. We define damage in two ways - population health damage and economic damage - and then determine which types of events caused the most total damage. The data used are from the NOAA Storm Database from the years of 1950 to 2011. After cleaning our datasets, we determine that tornadoes caused the most population health damage via fatalities and injuries, and that floods caused the most monetary damage during this time period.
