@@ -2,6 +2,7 @@
 title: "Economic and Health Effects of Severe Weather in the US"
 output: html_document
 ---
+# Economic and Health Effects of Severe Weather in the US
 
 ## Synopsis
 
